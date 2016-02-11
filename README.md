@@ -1,5 +1,14 @@
 #OpenCV Android Rajawali Boilerplate
 
+This is a boilerplate for android apps which need OpenCV and Rajawali. [OpenCV](https://en.wikipedia.org/wiki/OpenCV) is a well known library for computer vision and [Rajawali](https://github.com/Rajawali/Rajawali) is a 3D engine for android based on OpenGL. Since this project contains all the required libraries, no downloads are required.
+
+To use this boilerplate:
+1. Clone this repository
+2. Import project into Android studio.
+3. Run project to verify. That's it.
+
+The following steps were followed to setup OpenCV and Rajawali.  
+
 ###Steps followed to setup OpenCV:
 Source: http://stackoverflow.com/questions/27406303/opencv-in-android-studio/27421494#27421494
 
